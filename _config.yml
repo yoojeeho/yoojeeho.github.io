@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 google_analytics:
   tracking_id: G-07HMEZSNLP
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "https://yoojeeho.github.io/" # the subpath of your site, e.g. /blog/
 url: "https://yoojeeho.github.io/" # the base hostname & protocol for your site
